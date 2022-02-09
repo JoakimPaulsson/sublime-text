@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"JsPrettier",
+		"NeoVintageous",
+		"Origami",
+		"Package Control",
+		"RainbowBrackets",
+		"SublimeLinter",
+		"SublimeLinter-tslint",
+		"Terminal",
+		"Theme - Spacegray",
+		"VintageousOrigami",
+	],
+}
